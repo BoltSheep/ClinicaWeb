@@ -8,4 +8,4 @@
 
 ## Tecnologias usadas:
 
-- React
+- React js
